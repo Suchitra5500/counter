@@ -1,0 +1,15 @@
+.counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.button{
+    background-color: aqua;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 2px;
+}
